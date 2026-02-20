@@ -96,19 +96,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "string": "ID-001"
+                  "string": "COFFEE-ETH-001"
                 },
                 {
-                  "string": "Name"
-                },
-                {
-                  "string": ""
+                  "string": "Organic Coffee Beans"
                 },
                 {
                   "string": ""
                 },
                 {
-                  "string": "Category"
+                  "string": ""
+                },
+                {
+                  "string": "Coffee"
                 },
                 {
                   "vec": []
@@ -210,19 +210,19 @@
                       "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                     },
                     {
-                      "string": "ID-001"
+                      "string": "COFFEE-ETH-001"
                     },
                     {
-                      "string": "Name"
-                    },
-                    {
-                      "string": ""
+                      "string": "Organic Coffee Beans"
                     },
                     {
                       "string": ""
                     },
                     {
-                      "string": "Category"
+                      "string": ""
+                    },
+                    {
+                      "string": "Coffee"
                     },
                     {
                       "vec": []

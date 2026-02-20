@@ -23,7 +23,7 @@
                   "string": "Organic Coffee Beans"
                 },
                 {
-                  "string": "Premium single-origin coffee"
+                  "string": ""
                 },
                 {
                   "string": "Yirgacheffe, Ethiopia"
@@ -195,7 +195,7 @@
                         "symbol": "description"
                       },
                       "val": {
-                        "string": "Premium single-origin coffee"
+                        "string": ""
                       }
                     },
                     {
@@ -292,6 +292,51 @@
                   "vec": [
                     {
                       "symbol": "ProductEventIds"
+                    },
+                    {
+                      "string": "COFFEE-ETH-001"
+                    }
+                  ]
+                },
+                "durability": "persistent",
+                "val": {
+                  "vec": []
+                }
+              }
+            },
+            "ext": "v0"
+          },
+          4095
+        ]
+      ],
+      [
+        {
+          "contract_data": {
+            "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD2KM",
+            "key": {
+              "vec": [
+                {
+                  "symbol": "ProductEventTimestamps"
+                },
+                {
+                  "string": "COFFEE-ETH-001"
+                }
+              ]
+            },
+            "durability": "persistent"
+          }
+        },
+        [
+          {
+            "last_modified_ledger_seq": 0,
+            "data": {
+              "contract_data": {
+                "ext": "v0",
+                "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD2KM",
+                "key": {
+                  "vec": [
+                    {
+                      "symbol": "ProductEventTimestamps"
                     },
                     {
                       "string": "COFFEE-ETH-001"
@@ -428,7 +473,7 @@
                   "string": "Organic Coffee Beans"
                 },
                 {
-                  "string": "Premium single-origin coffee"
+                  "string": ""
                 },
                 {
                   "string": "Yirgacheffe, Ethiopia"
@@ -517,7 +562,7 @@
                     "symbol": "description"
                   },
                   "val": {
-                    "string": "Premium single-origin coffee"
+                    "string": ""
                   }
                 },
                 {
@@ -646,7 +691,7 @@
                     "symbol": "description"
                   },
                   "val": {
-                    "string": "Premium single-origin coffee"
+                    "string": ""
                   }
                 },
                 {
@@ -801,7 +846,7 @@
                     "symbol": "description"
                   },
                   "val": {
-                    "string": "Premium single-origin coffee"
+                    "string": ""
                   }
                 },
                 {
