@@ -96,31 +96,80 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "string": ""
-                },
-                {
-                  "string": "Name"
-                },
-                {
-                  "string": ""
-                },
-                {
-                  "string": "Origin"
-                },
-                {
-                  "string": "Category"
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "map": []
+                  "map": [
+                    {
+                      "key": {
+                        "symbol": "category"
+                      },
+                      "val": {
+                        "string": "Category"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "certifications"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "custom"
+                      },
+                      "val": {
+                        "map": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "description"
+                      },
+                      "val": {
+                        "string": ""
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "id"
+                      },
+                      "val": {
+                        "string": ""
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "media_hashes"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "name"
+                      },
+                      "val": {
+                        "string": "Name"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "origin_location"
+                      },
+                      "val": {
+                        "string": "Origin"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "tags"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -210,31 +259,80 @@
                       "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                     },
                     {
-                      "string": ""
-                    },
-                    {
-                      "string": "Name"
-                    },
-                    {
-                      "string": ""
-                    },
-                    {
-                      "string": "Origin"
-                    },
-                    {
-                      "string": "Category"
-                    },
-                    {
-                      "vec": []
-                    },
-                    {
-                      "vec": []
-                    },
-                    {
-                      "vec": []
-                    },
-                    {
-                      "map": []
+                      "map": [
+                        {
+                          "key": {
+                            "symbol": "category"
+                          },
+                          "val": {
+                            "string": "Category"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "certifications"
+                          },
+                          "val": {
+                            "vec": []
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "custom"
+                          },
+                          "val": {
+                            "map": []
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "description"
+                          },
+                          "val": {
+                            "string": ""
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "id"
+                          },
+                          "val": {
+                            "string": ""
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "media_hashes"
+                          },
+                          "val": {
+                            "vec": []
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "name"
+                          },
+                          "val": {
+                            "string": "Name"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "origin_location"
+                          },
+                          "val": {
+                            "string": "Origin"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "tags"
+                          },
+                          "val": {
+                            "vec": []
+                          }
+                        }
+                      ]
                     }
                   ]
                 }

@@ -96,31 +96,80 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "string": "ID-001"
-                },
-                {
-                  "string": "Name"
-                },
-                {
-                  "string": ""
-                },
-                {
-                  "string": ""
-                },
-                {
-                  "string": "Category"
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "map": []
+                  "map": [
+                    {
+                      "key": {
+                        "symbol": "category"
+                      },
+                      "val": {
+                        "string": "Category"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "certifications"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "custom"
+                      },
+                      "val": {
+                        "map": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "description"
+                      },
+                      "val": {
+                        "string": ""
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "id"
+                      },
+                      "val": {
+                        "string": "ID-001"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "media_hashes"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "name"
+                      },
+                      "val": {
+                        "string": "Name"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "origin_location"
+                      },
+                      "val": {
+                        "string": ""
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "tags"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -210,31 +259,80 @@
                       "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                     },
                     {
-                      "string": "ID-001"
-                    },
-                    {
-                      "string": "Name"
-                    },
-                    {
-                      "string": ""
-                    },
-                    {
-                      "string": ""
-                    },
-                    {
-                      "string": "Category"
-                    },
-                    {
-                      "vec": []
-                    },
-                    {
-                      "vec": []
-                    },
-                    {
-                      "vec": []
-                    },
-                    {
-                      "map": []
+                      "map": [
+                        {
+                          "key": {
+                            "symbol": "category"
+                          },
+                          "val": {
+                            "string": "Category"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "certifications"
+                          },
+                          "val": {
+                            "vec": []
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "custom"
+                          },
+                          "val": {
+                            "map": []
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "description"
+                          },
+                          "val": {
+                            "string": ""
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "id"
+                          },
+                          "val": {
+                            "string": "ID-001"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "media_hashes"
+                          },
+                          "val": {
+                            "vec": []
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "name"
+                          },
+                          "val": {
+                            "string": "Name"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "origin_location"
+                          },
+                          "val": {
+                            "string": ""
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "tags"
+                          },
+                          "val": {
+                            "vec": []
+                          }
+                        }
+                      ]
                     }
                   ]
                 }
